@@ -1,0 +1,146 @@
+.bottomDiv{
+	height: 378px;
+	background-color: #eeeeee;
+	border-top: 5px solid #cc3333;
+	margin-top: 27px;
+}
+.bottom{
+	width: 1271px;
+	margin: auto;
+}
+.erweima,.weibo,.xinxi,.phone{margin-top: 10px;}
+.erweima{
+	width: 210px;
+	height: 183px;
+	float: left;
+	text-align: center;
+	padding-left: 30px;
+	border-right: 1px solid #a9a9a9;
+}
+.erweima h5,
+.weibo h5{
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.erweima h6{
+	font-size: 16px;
+	font-weight: bold;
+}
+.erweima span{
+	display: block;
+	width:95px;
+	height: 94px;
+	margin: auto;
+	background: url(img/erweima.png) no-repeat;
+}
+.weibo{
+	float: left;
+	width: 210px;
+	height: 183px;
+	text-align: center;
+	border-right: 1px solid #a9a9a9;
+}
+.weibo a{
+	display: block;
+	width: 99px;
+	height: 23px;
+	margin: auto;
+	background: url(img/weibo.png) no-repeat;
+}
+.xinxi{
+	float: left;
+	width: 570px;
+	height: 183px;
+	text-align: center;
+	border-right: 1px solid #a9a9a9;
+	
+}
+.xinxi ul{
+	float: left;
+	padding-left: 48px;
+}
+.xinxi a{
+	color: #333333;
+	font-size: 14px;
+	line-height: 32px;
+}
+.xinxi .xinxi_a{
+	font-weight: bold;
+	color: #000;
+}
+.xinxi .ulLeft{
+	padding-left: 74px;
+}
+.bottom .phone{
+	float: left;
+	width: 208px;
+	height: 183px;
+	text-align: center;
+}
+.bottom .phone p{
+	font-size: 14px;
+	line-height: 20px;
+	color: #808080;
+	font-weight: bold;
+}
+.bottom .phone span{
+	font-size: 54px;
+	margin-bottom: 13px;
+	color: #afafaf;
+}
+.bottom >p{
+	float: left;
+	color: #000;
+	margin: 0;
+}
+.bottom p ._span3{
+	display: block;
+	float: right;
+	width: 1075px;
+	height: 60px;
+}
+.bottom p a{
+	padding-left: 6px;
+	color: #666666;
+}
+.bot_img{
+	float: left;
+	width: 1271px;
+	height: 60px;
+	text-align: center;
+}
+.bot_img span{
+	display: block;
+	width: 117px;
+	height: 54px;
+	margin: auto;
+	background: url(img/duona.png) no-repeat;
+}
+.bottom ._p1{
+	display:block;
+	float: left;
+	/*width:px ;*/
+	height: 22px;
+	margin: 0;
+}
+.bottom ._p1 span{
+	color: #e92323;
+}
+.bottom .bom ._span4{
+	color: #666666;
+	padding-left: 23px;
+}
+.bottom .bom ._span5{
+	display: block;
+	float: left;
+	width: 22px;
+	height: 22px;
+	margin: auto;
+	background: url(img/baidu.png) no-repeat;
+}
+.bom{
+	float: left;
+	margin: auto;
+	padding:20px 0 0 236px;
+}
