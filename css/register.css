@@ -1,0 +1,153 @@
+ul{list-style: none;}
+.clearfix:after{ content:"."; display:block; height:0;
+ clear:both;overflow:hidden;visibility:hidden; }
+.clearfix{zoom:1;}
+
+
+
+#header-3{
+	height: 45px;
+	border-top: 1px solid #b90a02;
+	border-bottom: 1px solid #b90a02;
+	background-color: #dd1c0d;
+}
+.header-4{
+	height: 43px;
+	border-top: 1px solid #e73923;
+	border-bottom: 1px solid #e73923;
+}
+.header-5{
+	width:1212px;
+	margin: auto;
+}
+.header-5 ul{
+	float: right;
+	margin: 0;
+	padding:10px 0 0 0;
+}
+.header-5 ul a{
+	display: block;
+	width: 105px;
+	height: 29px;
+	font-size: 18px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 14px;
+	
+}
+.header-5 ul li{
+	float: left;
+	height: 33px;
+	line-height: 33px;
+	text-align: center;
+}
+.header-5 ul a:hover,.header-5 ul a.active{
+	color: #f00;
+	background-color: #fff;
+}
+
+
+
+
+.bottomDiv .bottom .erweima h5,.bottomDiv .bottom .erweima h6{
+	margin: 10px 0 ;
+}
+.bottomDiv{
+	height: 313px;
+}
+
+.dnimg{
+	width: 1212px;
+	margin: auto;
+}
+.shopbuzhou{
+	padding: 0;
+	width: 976px;
+	height: 40px;
+	margin: auto;
+}
+.shopbuzhou li{
+	line-height: 40px;
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	width: 317px;
+	height: 40px;
+	background-color: #d7c9c9;
+	margin-right: 8px;
+	float: left;
+}
+.shopbuzhou li.bgwc{
+	background-color: #db3529;
+}
+
+/*zhuce*/
+.zhuce{
+	width: 646px;
+	margin: auto;
+	text-align: center;
+	
+}
+.zhuce ul{
+	padding: 0;
+	margin: 0;
+	
+}
+.zhuce p{
+	margin: 0;
+	color: #6e8847;
+	font-size: 12px;
+	padding-top: 10px;
+}
+.zhuce p a{
+	text-decoration: none;
+	color: #993333;
+}
+
+.zhuce li{
+	width: 646px;
+	padding-right: 200px;
+	text-align: right;
+}
+
+.zhuce li input{
+	width: 220px;
+	height: 30px;
+	border-radius: 5px;
+	margin: 14px 0 22px 0;
+}
+.zhuce li .inp{
+	width: 112px;
+	margin-right: 20px;
+}
+.zhuce li span{
+	padding: 0 95px 0 0;
+}
+.zhuce li .yzhm{
+	padding: 0;
+	display:inline-block;
+	width: 90px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: 22px;
+	color: #fff;
+	background-color: #030303;
+}
+.zhuce li button{
+	width: 254px;
+	height: 36px;
+	margin-top: 30px;
+	background-color: #dd7417;
+	color: #fff;
+}
+.zhuce li i{
+	font-style: normal;
+	padding-right: 10px;
+}
+.zhuce li i.zhengque{
+	color: #047606;
+}
+.zhuce li i.cuowu{
+	color: #f00;
+}

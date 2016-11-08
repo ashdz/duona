@@ -1,0 +1,176 @@
+
+ul{list-style: none;}
+
+.clearfix:after{ content:"."; display:block; height:0;
+ clear:both;overflow:hidden;visibility:hidden; }
+.clearfix{zoom:1;}
+
+
+.bottomDiv{
+	height: 313px;
+	margin: 0;
+}
+/*头部*/
+#header-3{
+	height: 45px;
+	border-top: 1px solid #b90a02;
+	border-bottom: 1px solid #b90a02;
+	background-color: #dd1c0d;
+}
+.header-4{
+	height: 43px;
+	border-top: 1px solid #e73923;
+	border-bottom: 1px solid #e73923;
+}
+.header-5{
+	width:1212px;
+	margin: auto;
+}
+.header-5 ul{
+	float: right;
+	margin: 0;
+	padding:10px 0 0 0;
+}
+.header-5 ul a{
+	display: block;
+	width: 105px;
+	height: 29px;
+	font-size: 18px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 14px;
+	
+}
+.header-5 ul li{
+	float: left;
+	height: 33px;
+	line-height: 33px;
+	text-align: center;
+}
+.header-5 ul a:hover,.header-5 ul a.active{
+	color: #f00;
+	background-color: #fff;
+}
+
+
+/*denglubg*/
+.denglubg{
+	height: 827px;
+	background: url(../images/delubg.jpg) no-repeat center center;
+}
+.iDuona{
+	width: 1170px;
+	height: 105px;
+	margin: auto;
+	color: #fff;
+}
+.iDuona p{
+	font-size: 24px;
+}
+.iDuona  span{
+	font-size: 6px;
+}
+#daziti{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+
+#dljm{
+	width: 948px;
+	height: 409px;
+	margin: auto;
+}
+#gaiban{
+	float: left;
+	width: 578px;
+	height:408px ;
+	color: #fff;
+}
+#gaiban h1{
+	font-size: 40px;
+	font-weight: bolder;
+}
+#gaiban ul{
+	list-style: disc;
+	font-size: 40px;
+}
+#gaiban ul h3{
+	font-size: 22px;
+}
+#gaiban ul p{
+	font-size: 18px;
+}
+
+.denglujm{
+	float: right;
+	width: 370px;
+	height: 408px;
+	text-align: center;
+	background-color: #7ad5f3;
+	opacity: 0.8;
+	filter: alpha(Opacity=80);
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+.denglujm h2{
+	color: #000;
+	font-size: 22px;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.denglujm ul input{
+	width: 218px;
+	height: 30px;
+	background-color: #fff;
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	opacity: 1;
+	filter: alpha(Opacity=100);
+	margin-bottom: 9px;
+}
+.denglujm .inp{
+	width: 104px;
+}
+.denglujm label{
+	padding-right: 15px;
+}
+.denglujm ul{
+	padding: 0;
+}
+.denglujm  .yzhm{
+	display: block;
+	float: right;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	line-height: 30px;
+	font-size: 22px;
+	background-color: #000000;
+	margin-right: 48px;
+}
+.denglujm a{
+	text-decoration: none;
+	display: inline-block;
+	width: 350px;
+	text-align: right;
+	padding-right: 38px;
+	color: #468847;
+}
+.denglujm  .spanyzm{
+	padding-right: 46px;
+}
+.denglujm>p a{
+	width: 100px;
+	padding-right:25px ;
+}
+.denglujm button{
+	width: 204px;
+	height: 36px;
+	background-color: #dc372b;
+	border-radius: 6px;
+}
+
+
+

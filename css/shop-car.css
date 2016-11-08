@@ -1,0 +1,283 @@
+ul{list-style: none;}
+.clearfix:after{ content:"."; display:block; height:0;
+ clear:both;overflow:hidden;visibility:hidden; }
+.clearfix{zoom:1;}
+
+
+
+#header-3{
+	height: 45px;
+	border-top: 1px solid #b90a02;
+	border-bottom: 1px solid #b90a02;
+	background-color: #dd1c0d;
+}
+.header-4{
+	height: 43px;
+	border-top: 1px solid #e73923;
+	border-bottom: 1px solid #e73923;
+}
+.header-5{
+	width:1212px;
+	margin: auto;
+}
+.header-5 ul{
+	float: right;
+	margin: 0;
+	padding:10px 0 0 0;
+}
+.header-5 ul a{
+	display: block;
+	width: 105px;
+	height: 29px;
+	font-size: 18px;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 14px;
+	
+}
+.header-5 ul li{
+	float: left;
+	height: 33px;
+	line-height: 33px;
+	text-align: center;
+}
+.header-5 ul a:hover,.header-5 ul a.active{
+	color: #f00;
+	background-color: #fff;
+}
+.bottomDiv .bottom .erweima h5,.bottomDiv .bottom .erweima h6{
+	margin: 10px 0 ;
+}
+ body .bottomDiv{
+	height: 313px;
+}
+
+.dnimg{
+	width: 1212px;
+	margin: auto;
+}
+.shopbuzhou{
+	padding: 0;
+	width: 976px;
+	height: 40px;
+	margin: auto;
+}
+.shopbuzhou li{
+	line-height: 40px;
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	width: 317px;
+	height: 40px;
+	background-color: #d7c9c9;
+	margin-right: 8px;
+	float: left;
+}
+.shopbuzhou li.bgwc{
+	background-color: #db3529;
+}
+.gwctj{
+	width: 976px;
+	height: 74px;
+	padding: 30px 0 13px 0;
+	margin: auto;
+	border-bottom: 3px solid #db3529;
+}
+.gwctj dl{
+	/*display: block;*/
+	float: left;
+	height: 40px;
+	margin: 0;
+}
+
+.gwctj dt{
+	float: left;
+	font-size: 20px;
+	/*height: 20px;*/
+	padding-right: 6px;
+	font-weight: bold;
+	border-right: 3px solid #8C8C8C;
+}
+.gwctj dd{
+	float: left;
+	margin: 0;
+	padding-left: 6px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.gwctj dd span{
+	font-size: 14px;
+	color: #666666;
+	padding-left: 10px;
+}
+.gwctj label{
+	/*display: block;*/
+	float: right;
+	margin: 0;
+}
+
+/*carContent*/
+.carContent{
+	width: 976px;
+	margin: auto;
+}
+.carContent dl{
+	width: 450px;
+	padding-top: 110px;
+	margin: auto;
+}
+.carContent dt{
+	float: left;
+}
+.carContent dd{
+	margin: 0;
+	padding: 33px 0 0 25px;
+	float: left;
+}
+.carContent{
+	min-height: 360px;
+}
+.carContent dd button{
+	margin-bottom: 10px;
+	width: 126px;
+	height: 30px;
+	color: #fff;
+	background-color: #d84c47;
+	border: 1px solid #c44741;
+	border-radius: 5px;
+	
+}
+
+/*购物车商品*/
+.carContent table {
+	width: 976px;
+}
+.carContent td{
+	color: #f00;
+	width: 244px;
+	text-align: center;
+}
+.carContent table tbody tr.Border{
+	display: inline-block;
+	border: 1px solid #C0C0C0;
+	border-top: none;
+}
+.carContent td a{
+	text-decoration: none;
+	color: #66AFE9;
+}
+.carContent td a:hover{
+	color: #F93F32;
+}
+.carContent td img{
+	height: 50px;
+	vertical-align: middle;
+}
+
+/*去支付按钮*/
+.carContent .buttonn{
+	margin-top: 20px;
+	float: right;
+	font-size: 20px;
+	font-weight: 600;
+	color: #fff;
+	width: 120px;
+	height: 43px;
+	background-color: #fa2718;
+	border: none;
+	border-radius: 3px;
+}
+.carContent .daijinquan{
+	float: left;
+}
+.carContent span{
+	float: right;
+	font-size: 30px;
+	padding: 20px 10px 0 0;
+	color: #000;	
+}
+.carContent span i{
+	color: #f00;
+}
+.carContent .wancheng a{
+	text-decoration: none;
+	font-size: 16px;
+}
+
+
+/*热门推荐*/
+
+.meishi{
+	width: 976px;
+	margin: auto;
+}
+.meishi h3{
+	width: 976px;
+	color: #e92323;
+	font-size: 18px;
+	line-height: 40px;
+	border-bottom:1px solid #d2d2d2 ;
+}
+.meishi ul{
+	float: left;
+	margin:10px 0 0 0 ;
+	padding: 0;
+}
+.meishi > ul li{
+	text-align: center;
+	float: left;
+	width: 210px;
+	height: 285px;
+	background-color: #f5f5f5;
+	border: 1px solid #dadada;
+	border-radius: 5px;
+	margin-right: 30px;
+}
+.glyphicon-heart{
+	float: left;
+}
+.glyphicon-heart,
+.shyu{
+	padding: 8px;
+	font-size: 12px;
+	color: #909090;
+}
+.shyu{
+	float: right;
+}
+.ul1 P{
+	display: inline-block;
+	color: #686868;
+	font-size: 14px;
+	height: 32px;
+	width: 188px;
+	line-height: 34px;
+	border-bottom: 1px solid #d7d7d7;
+	margin:0;
+	padding: 0 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.ul1 .mianzhi{
+	float: left;
+	padding-left: 10px;
+}
+.ul1 .mianzhi i{
+	font-style: normal;
+	font-size: 20px;
+	color: #e92323;
+}
+.ul1 .fanxian{
+	display: inline-block;
+	float: right;
+	margin-right: 10px;
+	width: 63px;
+	height: 26px;
+	color: #fff;
+	font-size: 12px;
+	line-height: 26px;
+	background-color: #eb7171;
+	border-radius: 5px;
+}
+
