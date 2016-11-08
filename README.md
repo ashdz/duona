@@ -1,4 +1,4 @@
-<h1><a href=" https://ashdz.github.io/duona/">多拿网</a></h1>
+<a href=" https://ashdz.github.io/duona/"><h1>多拿网</h1></a>
 <dl>
   <dt>
      <h2>主要用到的技术：</h2>
